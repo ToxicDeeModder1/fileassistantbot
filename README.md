@@ -4,7 +4,7 @@ You can use with 2 methods:
 ## with Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-1-) Deploy it and run `http://{yourappname}.herokuapp.com/fileassistantbot.php`
+1-) Deploy it and run `http://{ToxicDeeModder1}.herokuapp.com/fileassistantbot.php`
 
 2-)Write your App ID/Hash and Bot Token.
 
@@ -12,7 +12,7 @@ You can use with 2 methods:
 
 ## With VPS
 
-1-) Run `git clone https://github.com/quiec/fileassistantbot`
+1-) Run `git clone https://github.com/ToxicDeeModder1/fileassistantbot`
 
 2-) Run `php fileassistantbot.php`
 
